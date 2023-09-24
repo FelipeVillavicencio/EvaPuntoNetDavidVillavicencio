@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaCursoPuntoNet", "EvaCursoPuntoNet\EvaCursoPuntoNet.csproj", "{E361C1EE-7D1A-40AD-A082-575985000DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E361C1EE-7D1A-40AD-A082-575985000DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E361C1EE-7D1A-40AD-A082-575985000DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E361C1EE-7D1A-40AD-A082-575985000DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E361C1EE-7D1A-40AD-A082-575985000DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F74932B-5EEE-473C-8981-237BD67EA3B9}
+	EndGlobalSection
+EndGlobal
