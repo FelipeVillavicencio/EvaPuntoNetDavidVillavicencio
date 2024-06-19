@@ -7,7 +7,7 @@ namespace EvaCursoPuntoNet.Models;
 /// Street address information for customers.
 /// </summary>
 public partial class Address
-{
+{   public int id {get;set;}
     /// <summary>
     /// Primary key for Address records.
     /// </summary>
